@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,YACI,yBACA,UAAa","file":"static/css/main.0cdb86ac.css","sourcesContent":[".Nav-header{\r\n    background-color: #20315A ; \r\n    color: white;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
